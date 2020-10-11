@@ -1,6 +1,6 @@
 # FORR3FV-verk2
 ### 2.1
-**a)**!!!<br>
+**a)** Rasterisation is the task of taking an image described in a vector graphics format and converting it into a raster image. Ray tracing is a rendering technique for generating an image by tracing the path of light as pixels in an image plane and simulating the effects of its encounters with virtual objects.<br>
 **b)** 
 1. WebGL er Javascript-forritunarviðmót til að útfæra gagnvirkar þrívíðar og tvívíðar myndir í vafra.
 
@@ -22,12 +22,12 @@
 
 1. z-buffering is the management of image depth coordinates in 3D graphics, usually done in hardware, sometimes in software
 
-1. Right-hand coordinate system(RHS)
+1. Right-hand coordinate system(RHS) is when the positive x and y axes point right and up, and the negative z axis points forward.
 
-1. Frame buffer
+1. Frame buffer is a portion of random-access memory (RAM) containing a bitmap that drives a video display.
 
-1. Shaders
+1. Shaders are simple programs that describe the traits of either a vertex or a pixel
 
-1. FPS
+1. FPS(Frames Per Second) is used to measure frame rate – the number of consecutive full-screen images that are displayed each second.
 
-1. Refresh rate
+1. Refresh rate The refresh rate is the number of times the monitor updates with new images each second.
